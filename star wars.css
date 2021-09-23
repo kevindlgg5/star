@@ -1,0 +1,26 @@
+.Badboys {
+    background-color: red;
+}
+.Goodboys {
+    background-color: blue;
+}
+#elpadre {
+    font-size: 150%;
+}
+#elhijo {
+    font-style: italic;
+}
+.soldados {
+    letter-spacing: 1em;
+    border-style: dashed solid;
+    border-color: wheat;
+}
+.centrado {
+    text-align: center;
+}
+.mayus {
+    text-transform: uppercase;
+}
+body {
+    background-image: url(file:///C:/Users/Kevin/Downloads/space-1164579_1280.webp);
+}
